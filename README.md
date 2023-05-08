@@ -1,1 +1,2 @@
-# weather
+# Weather
+OpenWeather API
