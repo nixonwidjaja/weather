@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 const port = 3000
 const request = require('request')
-const API_KEY = '8ec7eb025b45105158e2cfd42b9ee16e'
+const API_KEY = ''
 
 app.use(express.urlencoded({extended: false}))
 
